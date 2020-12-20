@@ -1,0 +1,3 @@
+## notes
+
+nslookup search.
