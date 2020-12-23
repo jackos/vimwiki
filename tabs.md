@@ -7,6 +7,7 @@
     gT - backwards
 
 # open terminal in a tab
+    :vsp        # short hand split right
     :bo term    # opens terminal at bottom (default top)
-    :vert termn # opens terminal at left
+    :v term     # opens terminal to the right (like vsp)
 ```

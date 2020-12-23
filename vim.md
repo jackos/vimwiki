@@ -1,3 +1,5 @@
 ## standard
-[tabs](tabs.md)
++ [tabs](tabs.md)
++ [vimwiki](vimwiki.md)
+
 
