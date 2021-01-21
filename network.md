@@ -13,5 +13,3 @@ docker network create <name> --driver <driver_name>
 docker network [connect | disconnect] <network> <container>
 
 ```
-
-
